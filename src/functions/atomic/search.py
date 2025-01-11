@@ -9,10 +9,10 @@ from telebot.callback_data import CallbackData
 from bot_func_abc import AtomicBotFunctionABC
 sys.path.append('/path/to/src')
 
-class AtomicExampleBotFunction(AtomicBotFunctionABC):
+class AnotherBotFunction(AtomicBotFunctionABC):
     """Example of implementation of atomic function"""
+    commands: List[str] = ["another_unique_command"]
 
-    commands: List[str] = ["unique_search", "example_command"]
     authors: List[str] = ["FeyBM"]
     about: str = "Пример функции бота!"
     description: str = """В поле  *description* поместите подробную информацию о работе функции.
