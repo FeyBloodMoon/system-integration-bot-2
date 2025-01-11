@@ -1,0 +1,169 @@
+start_app 2024-12-21 13:59:24,379 CRITICAL -= START =-
+start_app 2024-12-21 14:04:55,149 CRITICAL -= START =-
+start_app 2024-12-21 14:17:46,704 CRITICAL -= START =-
+start_app 2024-12-21 14:20:45,089 CRITICAL -= START =-
+start_app 2024-12-21 14:25:40,029 CRITICAL -= START =-
+start_app 2024-12-21 14:27:46,977 CRITICAL -= START =-
+start_app 2024-12-21 14:27:51,485 ERROR TeleBot.send_message() missing 1 required positional argument: 'text'
+NoneType: None
+start_app 2024-12-21 14:28:42,416 ERROR TeleBot.send_message() missing 1 required positional argument: 'text'
+NoneType: None
+start_app 2024-12-21 14:33:41,338 CRITICAL -= START =-
+start_app 2024-12-21 14:34:48,383 CRITICAL -= START =-
+start_app 2024-12-21 14:37:53,731 CRITICAL -= START =-
+start_app 2024-12-21 14:38:07,316 ERROR 'Message' object has no attribute 'search_keyboard_factory'
+NoneType: None
+start_app 2024-12-21 14:38:11,689 ERROR 'Message' object has no attribute 'search_keyboard_factory'
+NoneType: None
+start_app 2024-12-21 14:38:22,002 ERROR 'Message' object has no attribute 'search_keyboard_factory'
+NoneType: None
+start_app 2024-12-21 14:40:26,888 CRITICAL -= START =-
+start_app 2024-12-21 14:40:30,931 ERROR 'Message' object has no attribute 'search_keyboard_factory'
+NoneType: None
+start_app 2024-12-21 14:40:32,185 ERROR 'Message' object has no attribute 'search_keyboard_factory'
+NoneType: None
+start_app 2024-12-21 14:40:35,516 ERROR 'Message' object has no attribute 'search_keyboard_factory'
+NoneType: None
+start_app 2024-12-21 14:41:08,986 CRITICAL -= START =-
+start_app 2024-12-21 14:41:11,652 ERROR AtomicExampleBotFunction.set_handlers.<locals>.example_message_hendler() missing 1 required positional argument: 'markup'
+NoneType: None
+start_app 2024-12-21 14:41:40,036 CRITICAL -= START =-
+start_app 2024-12-21 14:46:54,325 CRITICAL -= START =-
+start_app 2024-12-21 14:46:57,356 ERROR 'AtomicExampleBotFunction' object has no attribute '_AtomicExampleBotFunction__generate_search_markup'
+NoneType: None
+start_app 2024-12-21 14:47:17,400 ERROR 'AtomicExampleBotFunction' object has no attribute '_AtomicExampleBotFunction__generate_search_markup'
+NoneType: None
+start_app 2024-12-21 14:50:34,863 CRITICAL -= START =-
+start_app 2024-12-21 14:50:38,266 ERROR 'AtomicExampleBotFunction' object has no attribute '_AtomicExampleBotFunction__generate_search_markup'
+NoneType: None
+start_app 2024-12-21 14:50:39,304 ERROR 'AtomicExampleBotFunction' object has no attribute '_AtomicExampleBotFunction__generate_search_markup'
+NoneType: None
+start_app 2024-12-21 14:52:00,633 CRITICAL -= START =-
+start_app 2024-12-21 14:52:50,434 CRITICAL -= START =-
+start_app 2024-12-21 14:57:15,253 CRITICAL -= START =-
+start_app 2024-12-21 14:58:06,579 CRITICAL -= START =-
+start_app 2024-12-21 15:00:37,911 CRITICAL -= START =-
+start_app 2024-12-21 15:02:16,181 CRITICAL -= START =-
+start_app 2024-12-21 15:02:37,015 CRITICAL -= START =-
+start_app 2024-12-21 15:08:50,490 CRITICAL -= START =-
+start_app 2024-12-21 15:23:54,559 CRITICAL -= START =-
+start_app 2024-12-21 15:26:28,964 CRITICAL -= START =-
+start_app 2024-12-21 15:29:37,141 CRITICAL -= START =-
+start_app 2024-12-21 15:29:40,266 ERROR cannot access local variable 'categories' where it is not associated with a value
+NoneType: None
+start_app 2024-12-21 15:29:42,824 ERROR cannot access local variable 'categories' where it is not associated with a value
+NoneType: None
+start_app 2025-01-10 23:32:50,985 CRITICAL -= START =-
+start_app 2025-01-11 00:00:29,409 CRITICAL -= START =-
+start_app 2025-01-11 00:35:37,055 CRITICAL -= START =-
+start_app 2025-01-11 00:39:05,610 CRITICAL -= START =-
+start_app 2025-01-11 00:41:54,039 CRITICAL -= START =-
+start_app 2025-01-11 00:49:52,816 CRITICAL -= START =-
+start_app 2025-01-11 01:11:59,134 CRITICAL -= START =-
+start_app 2025-01-11 01:15:13,975 CRITICAL -= START =-
+start_app 2025-01-11 01:18:28,515 CRITICAL -= START =-
+start_app 2025-01-11 01:27:41,342 CRITICAL -= START =-
+start_app 2025-01-11 01:28:39,248 CRITICAL -= START =-
+start_app 2025-01-11 01:41:29,438 CRITICAL -= START =-
+start_app 2025-01-11 01:42:14,858 CRITICAL -= START =-
+start_app 2025-01-11 01:45:37,479 CRITICAL -= START =-
+start_app 2025-01-11 01:47:09,736 CRITICAL -= START =-
+start_app 2025-01-11 01:47:53,016 CRITICAL -= START =-
+start_app 2025-01-11 01:48:19,968 CRITICAL -= START =-
+start_app 2025-01-11 01:52:42,545 CRITICAL -= START =-
+start_app 2025-01-11 02:15:47,619 CRITICAL -= START =-
+start_app 2025-01-11 02:17:42,253 CRITICAL -= START =-
+start_app 2025-01-11 02:21:38,723 CRITICAL -= START =-
+start_app 2025-01-11 02:22:05,988 CRITICAL -= START =-
+start_app 2025-01-11 02:23:30,311 CRITICAL -= START =-
+start_app 2025-01-11 02:32:50,598 CRITICAL -= START =-
+start_app 2025-01-11 02:44:19,452 CRITICAL -= START =-
+start_app 2025-01-11 02:55:09,166 CRITICAL -= START =-
+start_app 2025-01-11 02:57:33,226 CRITICAL -= START =-
+start_app 2025-01-11 03:01:25,700 CRITICAL -= START =-
+start_app 2025-01-11 03:16:13,020 CRITICAL -= START =-
+start_app 2025-01-11 03:28:53,801 CRITICAL -= START =-
+start_app 2025-01-11 03:31:41,837 CRITICAL -= START =-
+start_app 2025-01-11 03:36:02,324 CRITICAL -= START =-
+start_app 2025-01-11 03:38:14,217 CRITICAL -= START =-
+start_app 2025-01-11 03:41:00,201 CRITICAL -= START =-
+start_app 2025-01-11 03:43:19,344 CRITICAL -= START =-
+start_app 2025-01-11 03:45:31,449 CRITICAL -= START =-
+start_app 2025-01-11 03:47:28,563 CRITICAL -= START =-
+start_app 2025-01-11 03:55:10,076 CRITICAL -= START =-
+start_app 2025-01-11 03:56:58,209 CRITICAL -= START =-
+start_app 2025-01-11 04:00:14,758 CRITICAL -= START =-
+start_app 2025-01-11 04:02:07,493 CRITICAL -= START =-
+start_app 2025-01-11 04:02:15,143 ERROR CallbackQuery.__init__() missing 1 required positional argument: 'json_string'
+NoneType: None
+start_app 2025-01-11 04:02:19,024 ERROR CallbackQuery.__init__() missing 1 required positional argument: 'json_string'
+NoneType: None
+start_app 2025-01-11 04:02:19,258 ERROR CallbackQuery.__init__() missing 1 required positional argument: 'json_string'
+NoneType: None
+start_app 2025-01-11 04:14:29,480 CRITICAL -= START =-
+start_app 2025-01-11 04:14:46,448 ERROR CallbackQuery.__init__() missing 1 required positional argument: 'json_string'
+NoneType: None
+start_app 2025-01-11 04:18:54,148 CRITICAL -= START =-
+start_app 2025-01-11 04:22:17,014 CRITICAL -= START =-
+start_app 2025-01-11 04:22:38,012 ERROR CallbackQuery.__init__() missing 1 required positional argument: 'json_string'
+NoneType: None
+start_app 2025-01-11 04:27:23,430 CRITICAL -= START =-
+start_app 2025-01-11 04:31:54,267 CRITICAL -= START =-
+start_app 2025-01-11 04:36:32,993 CRITICAL -= START =-
+start_app 2025-01-11 04:39:41,400 CRITICAL -= START =-
+start_app 2025-01-11 04:44:00,526 CRITICAL -= START =-
+start_app 2025-01-11 04:48:24,468 CRITICAL -= START =-
+start_app 2025-01-11 04:50:25,204 CRITICAL -= START =-
+start_app 2025-01-11 04:53:35,176 CRITICAL -= START =-
+start_app 2025-01-11 04:55:29,890 CRITICAL -= START =-
+start_app 2025-01-11 04:58:49,242 CRITICAL -= START =-
+start_app 2025-01-11 05:03:53,604 CRITICAL -= START =-
+start_app 2025-01-11 05:06:29,707 CRITICAL -= START =-
+start_app 2025-01-11 05:06:42,195 ERROR 1398348245
+NoneType: None
+start_app 2025-01-11 05:08:37,925 CRITICAL -= START =-
+start_app 2025-01-11 05:12:05,421 CRITICAL -= START =-
+start_app 2025-01-11 05:12:05,733 ERROR 1398348245
+NoneType: None
+start_app 2025-01-11 05:12:16,871 ERROR 1398348245
+NoneType: None
+start_app 2025-01-11 05:12:17,612 ERROR 1398348245
+NoneType: None
+start_app 2025-01-11 05:12:18,101 ERROR 1398348245
+NoneType: None
+start_app 2025-01-11 05:12:18,635 ERROR 1398348245
+NoneType: None
+start_app 2025-01-11 05:12:42,021 ERROR 1398348245
+NoneType: None
+start_app 2025-01-11 05:12:43,017 ERROR 1398348245
+NoneType: None
+start_app 2025-01-11 05:13:44,962 CRITICAL -= START =-
+start_app 2025-01-11 05:13:45,287 ERROR 1398348245
+NoneType: None
+start_app 2025-01-11 05:14:37,664 CRITICAL -= START =-
+start_app 2025-01-11 05:14:37,955 ERROR 1398348245
+NoneType: None
+start_app 2025-01-11 05:14:39,435 ERROR 1398348245
+NoneType: None
+start_app 2025-01-11 05:14:40,450 ERROR 1398348245
+NoneType: None
+start_app 2025-01-11 05:14:47,266 CRITICAL -= START =-
+start_app 2025-01-11 05:14:49,938 ERROR 1398348245
+NoneType: None
+start_app 2025-01-11 05:14:51,139 ERROR 1398348245
+NoneType: None
+start_app 2025-01-11 05:14:51,758 ERROR 1398348245
+NoneType: None
+start_app 2025-01-11 08:34:34,717 CRITICAL -= START =-
+start_app 2025-01-11 08:39:45,280 ERROR 1398348245
+NoneType: None
+start_app 2025-01-11 08:44:08,230 CRITICAL -= START =-
+start_app 2025-01-11 08:55:25,116 CRITICAL -= START =-
+start_app 2025-01-11 09:00:38,572 CRITICAL -= START =-
+start_app 2025-01-11 09:05:25,242 CRITICAL -= START =-
+start_app 2025-01-11 09:05:25,883 ERROR 1398348245
+NoneType: None
+start_app 2025-01-11 09:05:30,406 ERROR 1398348245
+NoneType: None
+start_app 2025-01-11 10:49:27,472 CRITICAL -= START =-
+start_app 2025-01-11 10:54:01,421 CRITICAL -= START =-
